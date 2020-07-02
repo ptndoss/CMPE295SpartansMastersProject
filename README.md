@@ -7,14 +7,4 @@ Team Spartans
 * Sudha Amarnath
 * Muthukumar Sukumaran
 
-
-
-
-<!-- <a href="pdfs/CMPE-295B-GrabOn-AndrewBond-TeamSpartan-Poster.pdf" class="image fit" ><img src="images/marr_pic.jpg" alt=""></a> -->
-<a href="pdfs/CMPE-295B-GrabOn-AndrewBond-TeamSpartan-Poster.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a> 
-
-<object data="https://github.com/ptndoss/Grab-ON-AdListingApp/blob/master/CMPE-295B-GrabOn-AndrewBond-TeamSpartan-Poster.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/ptndoss/Grab-ON-AdListingApp/blob/master/CMPE-295B-GrabOn-AndrewBond-TeamSpartan-Poster.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/ptndoss/Grab-ON-AdListingApp/blob/master/CMPE-295B-GrabOn-AndrewBond-TeamSpartan-Poster.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+![GrabOn-Poster](https://user-images.githubusercontent.com/34608166/86309501-c6231100-bbd0-11ea-8fa9-2798353ae720.png)
